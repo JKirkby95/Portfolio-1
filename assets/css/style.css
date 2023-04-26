@@ -51,8 +51,8 @@
     line-height: 75px;
 }
 
-#menu a:hover {
-    color: #fff;
+#menu a:hover  {
+    color: #fff; 
     background-color: #076652;
     border: none;
     border-radius: 15px;
@@ -69,18 +69,13 @@
 
 /* hero-image */
 
-#hero-outer {
-    position: relative;
-    
-}
-
 #hero-image {
     height:700px;
     width: 100%;
     background: url(../images/cover-photo.jpg)no-repeat center center;
     border: 5px solid #076652;
     overflow: hidden;
-    
+    position: relative;
 }
 
 #cover-text a {
@@ -92,30 +87,36 @@
 
 #cover-text {
     font-size: 150%;
+    font-weight: 800;
     font-family:'Mulish' , sans-serif ;
     letter-spacing: 2px;
     width: 350px;
     height:250px;
 
-    padding-top: 40px;
-    padding-left: 10px;
+    padding:5px;
 
-    background-color: rgba(245, 245, 220, 0.9);
+    background-color: rgba(245, 245, 220, 0.8);
 
-    bottom: 30px;
-    right:150px;
+    bottom: 150px;
+    right:50px;
 
     position: absolute;
 
     border-radius: 15%;
+    border: 2px solid #076652;
 
     text-align: center;
-    text-decoration: none;
+    
    
 }
 
 #book-now-link {
-   font-size: 250%;
+   font-size: 150%;
    text-decoration: none;
+   border: none;
+   border-radius: 15px;
+   box-shadow: 5px 5px 5px #000;
+   padding: 5px;
+  
 }
 
