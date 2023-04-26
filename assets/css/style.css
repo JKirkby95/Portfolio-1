@@ -58,3 +58,11 @@
 .active {
     border-bottom: 2px solid #076652;
 }
+
+/* hero-image */
+
+#hero-image {
+    height:700px;
+    width: 100%;
+    background: url(../images/cover-photo.jpg)no-repeat center center;
+}
