@@ -1,4 +1,4 @@
- @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300&family=Raleway:wght@300&family=Tangerine:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Mulish:wght@300&family=Raleway:wght@300&display=swap');
 
 * {
     margin: 0;
@@ -9,4 +9,52 @@
  body {
     font-family:'Raleway' , sans-serif ;
     font-weight: 400;
+    color:#076652;
  }
+
+ /* logo style */
+
+ h1 {
+    font-family:'Dancing Script' , sans-serif ;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: #076652;
+ }
+
+ #logo {
+    float: left;
+    font-size:200%;
+ }
+
+ /* nav */
+
+ #menu {
+    font-size: 125%;
+    letter-spacing: 1px;
+ }
+
+ #menu li {
+    float: right;
+    list-style-type: none;
+    margin-right:25px;
+ }
+
+ #menu a {
+    text-decoration: none;
+    color:#076652;
+
+ }
+
+#logo, #menu {
+    line-height: 75px;
+}
+
+#menu a:hover {
+    border-bottom: 2px solid #076652;
+    font-size: 110%;
+}
+
+.active {
+    border-bottom: 2px solid #076652;
+}
