@@ -20,6 +20,7 @@
     letter-spacing: 1px;
     text-decoration: none;
     color: #076652;
+    margin-left: 20px;
  }
 
  #logo {
@@ -51,18 +52,70 @@
 }
 
 #menu a:hover {
-    border-bottom: 2px solid #076652;
-    font-size: 110%;
+    color: #fff;
+    background-color: #076652;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px #000;
+    padding: 5px;
+   
 }
 
 .active {
+    font-size: 125%;
+    font-weight: bold;
     border-bottom: 2px solid #076652;
 }
 
 /* hero-image */
 
+#hero-outer {
+    position: relative;
+    
+}
+
 #hero-image {
     height:700px;
     width: 100%;
     background: url(../images/cover-photo.jpg)no-repeat center center;
+    border: 5px solid #076652;
+    overflow: hidden;
+    
 }
+
+#cover-text a {
+    background-color: #076652;
+    border-radius: 15%;
+    color:#fff;
+    padding: 2px;
+}
+
+#cover-text {
+    font-size: 150%;
+    font-family:'Mulish' , sans-serif ;
+    letter-spacing: 2px;
+    width: 350px;
+    height:250px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(245, 245, 220, 0.9);
+
+    bottom: 30px;
+    right:150px;
+
+    position: absolute;
+
+    border-radius: 15%;
+
+    text-align: center;
+    text-decoration: none;
+   
+}
+
+#book-now-link {
+   font-size: 250%;
+   text-decoration: none;
+}
+
