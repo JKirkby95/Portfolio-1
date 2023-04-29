@@ -120,8 +120,23 @@
   
 }
 
-#welcome-text {
+#welcome-heading {
     text-align: center;
     padding-top: 25px;
+    padding-bottom: 25px;
 }
 
+#break {
+    width: 100px;
+    height: 2px;
+    background: #076652;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+#welcome-sub-heading {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
