@@ -140,3 +140,57 @@
     padding-top: 25px;
     padding-bottom: 25px;
 }
+
+#welcome {
+    height: 700px;
+}
+
+#left-welcome {
+    padding-top: 25px;
+    width:400px;
+    float: left;
+    margin-left: 150px;
+}
+
+#left-welcome img {
+    float: right;
+    height:250px;
+    width: 400px;
+    border: 5px solid #076652;
+}
+
+ #left-welcome h3 {
+    text-align: center;
+ }
+
+ #left-welcome p {
+    text-align: center;
+ }
+
+ #welcome-book-now {
+    text-align: center;
+    text-decoration: none;
+    margin-left:150px;
+    background-color: #076652;
+    color: #fff;
+    border-radius: 15px;
+    padding: 5px;
+ }
+
+ #welcome-book-now:hover {
+    background-color: #fff;
+    color: #076652;
+    border: 1px solid #076652;
+ }
+
+#right-welcome {
+    padding-top: 25px;
+    width: 33%;
+    float: right;
+}
+
+#center-welcome {
+    padding-top: 25px;
+    width: 33%;
+    margin: 0 auto;
+}
