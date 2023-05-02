@@ -145,6 +145,14 @@
     height: 700px;
 }
 
+#welcome-heading {
+    text-transform: uppercase;
+}
+
+#welcome-text {
+    font-family: 'Mulish' ,sans-serif;
+}
+
 #left-welcome {
     padding-top: 25px;
     width:400px;
@@ -157,6 +165,7 @@
     height:250px;
     width: 400px;
     border: 5px solid #076652;
+    border-radius: 25px 50px 25px;
 }
 
  #left-welcome h3 {
@@ -196,6 +205,7 @@
     height:250px;
     width: 400px;
     border: 5px solid #076652;
+    border-radius: 25px 50px 25px;
 }
 
 #right-welcome h3 {
@@ -224,6 +234,37 @@
 
 #center-welcome {
     padding-top: 25px;
-    width: 33%;
+    width: 400px;
     margin: 0 auto;
+}
+
+#center-welcome img {
+    height:250px;
+    width: 400px;
+    border: 5px solid #076652;
+    border-radius: 25px 50px 25px;
+}
+
+#center-welcome h3 {
+    text-align: center;
+}
+
+#center-welcome p {
+    text-align: center;
+}
+
+#flyover-link {
+    text-align: center;
+    text-decoration: none;
+    margin-left:150px;
+    background-color: #076652;
+    color: #fff;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+#flyover-link:hover {
+    background-color: #fff;
+    color: #076652;
+    border: 1px solid #076652
 }
