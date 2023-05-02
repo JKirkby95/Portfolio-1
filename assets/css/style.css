@@ -185,9 +185,42 @@
 
 #right-welcome {
     padding-top: 25px;
-    width: 33%;
+    width:400px;
     float: right;
+    margin-right: 150px;
 }
+
+
+#right-welcome img {
+    float: left;
+    height:250px;
+    width: 400px;
+    border: 5px solid #076652;
+}
+
+#right-welcome h3 {
+    text-align: center;
+}
+
+#right-welcome p {
+    text-align: center;
+}
+
+#welcome-contact-us {
+    text-align: center;
+    text-decoration: none;
+    margin-left:150px;
+    background-color: #076652;
+    color: #fff;
+    border-radius: 15px;
+    padding: 5px;
+ }
+
+ #welcome-contact-us:hover {
+    background-color: #fff;
+    color: #076652;
+    border: 1px solid #076652;
+ }
 
 #center-welcome {
     padding-top: 25px;
