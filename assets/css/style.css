@@ -10,6 +10,7 @@
     font-family:'Raleway' , sans-serif ;
     font-weight: 400;
     color:#076652;
+    overflow-x:hidden;
  }
 
  /* logo style */
@@ -117,6 +118,7 @@
    border-radius: 15px;
    box-shadow: 5px 5px 5px #000;
    padding: 5px;
+   width:150px;
   
 }
 
@@ -177,13 +179,12 @@
  }
 
  #welcome-book-now {
-    text-align: center;
     text-decoration: none;
-    margin-left:150px;
     background-color: #076652;
     color: #fff;
     border-radius: 15px;
     padding: 5px;
+    width:50px;
  }
 
  #welcome-book-now:hover {
@@ -219,7 +220,6 @@
 #welcome-contact-us {
     text-align: center;
     text-decoration: none;
-    margin-left:150px;
     background-color: #076652;
     color: #fff;
     border-radius: 15px;
@@ -256,7 +256,6 @@
 #flyover-link {
     text-align: center;
     text-decoration: none;
-    margin-left:150px;
     background-color: #076652;
     color: #fff;
     border-radius: 15px;
