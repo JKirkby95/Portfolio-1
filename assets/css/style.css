@@ -354,3 +354,46 @@ hr {
     margin: 0 auto;
     width: 33%;
 }
+
+/* gallery page */
+
+#feature-holes {
+    clear: both;
+}
+
+#feature-holes h2 {
+    text-align: center;
+    padding: 25px;
+}
+
+.holes {
+    width: 75%;
+    height: 300px;
+    margin: 0 auto;
+    background-color: #076652;
+}
+
+#hole7 img{
+    max-height: 250px;
+    width: 33%;
+    float: left;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+#hole12 img {
+    max-height: 250px;
+    width: 33%;
+    float: right;
+    margin-right: 50px;
+    margin-top: 25px;
+}
+
+#hole17 img {
+    max-height: 250px;
+    width: 33%;
+    float: left;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
