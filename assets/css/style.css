@@ -6,60 +6,61 @@
     border: none;
 }
 
- body {
-    font-family:'Raleway' , sans-serif ;
+body {
+    font-family: 'Raleway', sans-serif;
     font-weight: 400;
-    color:#076652;
-    overflow-x:hidden;
- }
+    color: #076652;
+    overflow-x: hidden;
+}
 
- /* logo style */
+/* logo style */
 
- h1 {
-    font-family:'Dancing Script' , sans-serif ;
+h1 {
+    font-family: 'Dancing Script', sans-serif;
     text-transform: uppercase;
     letter-spacing: 1px;
     text-decoration: none;
     color: #076652;
     margin-left: 20px;
- }
+}
 
- #logo {
+#logo {
     float: left;
-    font-size:200%;
- }
+    font-size: 200%;
+}
 
- /* nav */
+/* nav */
 
- #menu {
+#menu {
     font-size: 125%;
     letter-spacing: 1px;
- }
+}
 
- #menu li {
+#menu li {
     float: right;
     list-style-type: none;
-    margin-right:25px;
- }
+    margin-right: 25px;
+}
 
- #menu a {
+#menu a {
     text-decoration: none;
-    color:#076652;
+    color: #076652;
 
- }
+}
 
-#logo, #menu {
+#logo,
+#menu {
     line-height: 75px;
 }
 
-#menu a:hover  {
-    color: #fff; 
+#menu a:hover {
+    color: #fff;
     background-color: #076652;
     border: none;
     border-radius: 15px;
     box-shadow: 5px 5px 5px #000;
     padding: 5px;
-   
+
 }
 
 .active {
@@ -71,7 +72,7 @@
 /* hero-image */
 
 #hero-image {
-    height:700px;
+    height: 700px;
     width: 100%;
     background: url(../images/cover-photo.jpg)no-repeat center center;
     border: 5px solid #076652;
@@ -82,24 +83,24 @@
 #cover-text a {
     background-color: #076652;
     border-radius: 15%;
-    color:#fff;
+    color: #fff;
     padding: 2px;
 }
 
 #cover-text {
     font-size: 150%;
     font-weight: 800;
-    font-family:'Mulish' , sans-serif ;
+    font-family: 'Mulish', sans-serif;
     letter-spacing: 2px;
     width: 350px;
-    height:250px;
+    height: 250px;
 
-    padding:5px;
+    padding: 5px;
 
     background-color: rgba(245, 245, 220, 0.8);
 
     bottom: 150px;
-    right:50px;
+    right: 50px;
 
     position: absolute;
 
@@ -107,19 +108,19 @@
     border: 2px solid #076652;
 
     text-align: center;
-    
-   
+
+
 }
 
 #book-now-link {
-   font-size: 150%;
-   text-decoration: none;
-   border: none;
-   border-radius: 15px;
-   box-shadow: 5px 5px 5px #000;
-   padding: 5px;
-   width:150px;
-  
+    font-size: 150%;
+    text-decoration: none;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px #000;
+    padding: 5px;
+    width: 150px;
+
 }
 
 #welcome-heading {
@@ -152,50 +153,50 @@
 }
 
 #welcome-text {
-    font-family: 'Mulish' ,sans-serif;
+    font-family: 'Mulish', sans-serif;
 }
 
 #left-welcome {
     padding-top: 25px;
-    width:400px;
+    width: 400px;
     float: left;
     margin-left: 150px;
 }
 
 #left-welcome img {
     float: right;
-    height:250px;
+    height: 250px;
     width: 400px;
     border: 5px solid #076652;
     border-radius: 25px 50px 25px;
 }
 
- #left-welcome h3 {
+#left-welcome h3 {
     text-align: center;
- }
+}
 
- #left-welcome p {
+#left-welcome p {
     text-align: center;
- }
+}
 
- #welcome-book-now {
+#welcome-book-now {
     text-decoration: none;
     background-color: #076652;
     color: #fff;
     border-radius: 15px;
     padding: 5px;
-    width:50px;
- }
+    width: 50px;
+}
 
- #welcome-book-now:hover {
+#welcome-book-now:hover {
     background-color: #fff;
     color: #076652;
     border: 1px solid #076652;
- }
+}
 
 #right-welcome {
     padding-top: 25px;
-    width:400px;
+    width: 400px;
     float: right;
     margin-right: 150px;
 }
@@ -203,7 +204,7 @@
 
 #right-welcome img {
     float: left;
-    height:250px;
+    height: 250px;
     width: 400px;
     border: 5px solid #076652;
     border-radius: 25px 50px 25px;
@@ -224,13 +225,13 @@
     color: #fff;
     border-radius: 15px;
     padding: 5px;
- }
+}
 
- #welcome-contact-us:hover {
+#welcome-contact-us:hover {
     background-color: #fff;
     color: #076652;
     border: 1px solid #076652;
- }
+}
 
 #center-welcome {
     padding-top: 25px;
@@ -239,7 +240,7 @@
 }
 
 #center-welcome img {
-    height:250px;
+    height: 250px;
     width: 400px;
     border: 5px solid #076652;
     border-radius: 25px 50px 25px;
@@ -281,8 +282,8 @@ footer {
     text-align: center;
 }
 
-#social-networks > li {
-    display:inline;
+#social-networks>li {
+    display: inline;
 }
 
 #social-networks i {
@@ -291,16 +292,17 @@ footer {
     padding: 2%;
     color: #fff;
 }
+
 #facebook i:hover {
-    color:#3b5998;
+    color: #3b5998;
 }
 
 #twitter i:hover {
-    color:#1DA1F2;
+    color: #1DA1F2;
 }
 
 #youtube i:hover {
-    color:#FF0000;
+    color: #FF0000;
 }
 
 #instagram i:hover {
@@ -316,7 +318,7 @@ hr {
     color: #fff;
     letter-spacing: 2px;
     list-style-type: none;
-    padding:25px;
+    padding: 25px;
 }
 
 #footer-details h3 {
@@ -370,25 +372,33 @@ hr {
     width: 75%;
     height: 300px;
     margin: 0 auto;
-    border: 5px solid #076652;
-    border-radius: 25px;
+    
 }
 
-#hole7 img{
+.gallery-break {
+    width: 75%;
+    height: 2px;
+    background: #076652;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+#hole7 img {
     max-height: 250px;
     width: 500px;
     float: left;
     margin-left: 50px;
     margin-top: 25px;
-    border: 5px solid #076652;
+    /* border: 5px solid #076652; */
     border-radius: 50% 20% / 10% 40%;
 }
 
 #hole7 p {
     float: right;
     margin-right: 50px;
-    max-width: 33%;
-    padding-top: 25px;
+    max-width: 50%;
+    padding-top: 75px;
 }
 
 
@@ -405,8 +415,8 @@ hr {
 #hole12 p {
     float: left;
     margin-left: 50px;
-    max-width: 33%;
-    padding-top: 25px;
+    max-width: 50%;
+    padding-top: 50px;
 }
 
 #hole17 img {
@@ -422,7 +432,6 @@ hr {
 #hole17 p {
     float: right;
     margin-right: 50px;
-    max-width: 33%;
-    padding-top: 25px;
+    max-width: 50%;
+    padding-top: 50px;
 }
-
