@@ -123,6 +123,8 @@ h1 {
 
 }
 
+/* body */
+
 #welcome-heading {
     text-align: center;
     padding-top: 25px;
@@ -375,6 +377,10 @@ hr {
     
 }
 
+.holes h3 {
+    font-family: 'Dancing Script', sans-serif;
+}
+
 .gallery-break {
     width: 75%;
     height: 2px;
@@ -390,7 +396,6 @@ hr {
     float: left;
     margin-left: 50px;
     margin-top: 25px;
-    /* border: 5px solid #076652; */
     border-radius: 50% 20% / 10% 40%;
 }
 
@@ -401,6 +406,9 @@ hr {
     padding-top: 75px;
 }
 
+#hole7 h3 {
+    float: left;
+}
 
 #hole12 img {
     max-height: 250px;
@@ -408,7 +416,6 @@ hr {
     float: right;
     margin-right: 50px;
     margin-top: 25px;
-    border: 5px solid #076652;
     border-radius: 50% 20% / 10% 40%;
 }
 
@@ -419,13 +426,16 @@ hr {
     padding-top: 50px;
 }
 
+#hole12 h3 {
+    float: right;
+}
+
 #hole17 img {
     max-height: 250px;
     width: 500px;
     float: left;
     margin-left: 50px;
     margin-top: 25px;
-    border: 5px solid #076652;
     border-radius: 50% 20% / 10% 40%;
 }
 
@@ -434,4 +444,8 @@ hr {
     margin-right: 50px;
     max-width: 50%;
     padding-top: 50px;
+}
+
+#hole17 h3 {
+    float: left;
 }
