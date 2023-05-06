@@ -370,30 +370,59 @@ hr {
     width: 75%;
     height: 300px;
     margin: 0 auto;
-    background-color: #076652;
+    border: 5px solid #076652;
+    border-radius: 25px;
 }
 
 #hole7 img{
     max-height: 250px;
-    width: 33%;
+    width: 500px;
     float: left;
     margin-left: 50px;
     margin-top: 25px;
+    border: 5px solid #076652;
+    border-radius: 50% 20% / 10% 40%;
 }
+
+#hole7 p {
+    float: right;
+    margin-right: 50px;
+    max-width: 33%;
+    padding-top: 25px;
+}
+
 
 #hole12 img {
     max-height: 250px;
-    width: 33%;
+    width: 500px;
     float: right;
     margin-right: 50px;
     margin-top: 25px;
+    border: 5px solid #076652;
+    border-radius: 50% 20% / 10% 40%;
+}
+
+#hole12 p {
+    float: left;
+    margin-left: 50px;
+    max-width: 33%;
+    padding-top: 25px;
 }
 
 #hole17 img {
     max-height: 250px;
-    width: 33%;
+    width: 500px;
     float: left;
     margin-left: 50px;
     margin-top: 25px;
+    border: 5px solid #076652;
+    border-radius: 50% 20% / 10% 40%;
+}
+
+#hole17 p {
+    float: right;
+    margin-right: 50px;
+    max-width: 33%;
+    padding-top: 25px;
 }
 
