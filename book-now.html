@@ -35,10 +35,10 @@
 
     <section id="book-now-form">
 
-        <h2>Book a Tee Time!</h2>
+        <h2>Book a Tee Time! <i class="fa-regular fa-calendar"></i></h2>
 
         <div id="form">
-
+            <form method="get" action="booking-successful.html">
             <div class="input-field">
 
                 <label>First Name:</label>
@@ -57,14 +57,14 @@
 
             <div class="input-field">
 
-                <label>Email Address:</label>
+                <label>Email Address <i class="fa-regular fa-envelope"></i></label>
 
                 <input type="email" class="input" required>
 
             </div>
             <div class="input-field">
 
-                <label>Number of Players:</label>
+                <label>Number of Players <i class="fa-regular fa-user"></i></label>
 
                 <div class="select">
                     <select>
@@ -80,7 +80,7 @@
 
             <div class="input-field">
 
-                <label>Select Time:</label>
+                <label>Select Time <i class="fa-regular fa-clock" id="clock"></i></label>
 
                 <div class="select">
                     <select>
@@ -145,10 +145,10 @@
 
                 <label >Additional info (optional)</label>
 
-                <textarea  class="textarea">Add any additional information here.</textarea>
+                <textarea  class="textarea"></textarea>
 
             </div>
-            
+
             <div class="input-field">
 
                 <label class="input-field check">
@@ -167,6 +167,7 @@
             </div>
 
         </div>
+    </form>
     </section>
 
     <footer>
