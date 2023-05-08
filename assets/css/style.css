@@ -554,3 +554,26 @@ hr {
     border: 1px solid #fff;
 }
 
+/* Form response */
+
+#form-response {
+    width: 75%;
+    height: 600px;
+    background-color: #076652;
+    clear: both;
+    margin: 25px auto;
+    color: #fff;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#form-response a {
+    color: #fff;
+}
+
+#form-response a:hover {
+    font-size: 110%;
+    color: gold;
+}
