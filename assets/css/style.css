@@ -148,7 +148,7 @@ h1 {
 }
 
 #welcome {
-    height: 700px;
+    height:700px;
 }
 
 #welcome-heading {
@@ -161,7 +161,7 @@ h1 {
 
 #left-welcome {
     padding-top: 25px;
-    width: 400px;
+    width: 20%;
     float: left;
     margin-left: 150px;
 }
@@ -169,7 +169,7 @@ h1 {
 #left-welcome img {
     float: right;
     height: 250px;
-    width: 400px;
+    width: 100%;
     border: 5px solid #076652;
     border-radius: 25px 50px 25px;
 }
@@ -188,7 +188,7 @@ h1 {
     color: #fff;
     border-radius: 15px;
     padding: 5px 10px;
-    width: 50px;
+    width: 20%;
 }
 
 #welcome-book-now:hover {
@@ -199,7 +199,7 @@ h1 {
 
 #right-welcome {
     padding-top: 25px;
-    width: 400px;
+    width: 20%;
     float: right;
     margin-right: 150px;
 }
@@ -208,7 +208,7 @@ h1 {
 #right-welcome img {
     float: left;
     height: 250px;
-    width: 400px;
+    width: 100%;
     border: 5px solid #076652;
     border-radius: 25px 50px 25px;
 }
@@ -238,13 +238,13 @@ h1 {
 
 #center-welcome {
     padding-top: 25px;
-    width: 400px;
+    width: 20%;
     margin: 0 auto;
 }
 
 #center-welcome img {
     height: 250px;
-    width: 400px;
+    width: 100%;
     border: 5px solid #076652;
     border-radius: 25px 50px 25px;
 }
@@ -579,10 +579,10 @@ hr {
 }
 /* responsive styling */
 
+
+
 @media screen and (max-width: 950px) {
 
-
-    
     #menu {
         clear: left;
         float: left;
@@ -590,4 +590,5 @@ hr {
         line-height: 25px;
         margin-bottom: 25px;
     }
+
 }
