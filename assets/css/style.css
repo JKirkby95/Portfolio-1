@@ -333,6 +333,10 @@ hr {
     list-style-type: none;
 }
 
+#footer-details ul {
+    max-width: 25%;
+}
+
 
 #footer-details a {
     text-decoration: none;
@@ -393,7 +397,7 @@ hr {
 
 #hole7 img {
     max-height: 250px;
-    width: 500px;
+    width: 25%;
     float: left;
     margin-left: 50px;
     margin-top: 25px;
@@ -413,7 +417,7 @@ hr {
 
 #hole12 img {
     max-height: 250px;
-    width: 500px;
+    width: 25%;
     float: right;
     margin-right: 50px;
     margin-top: 25px;
@@ -433,7 +437,7 @@ hr {
 
 #hole17 img {
     max-height: 250px;
-    width: 500px;
+    width: 25%;
     float: left;
     margin-left: 50px;
     margin-top: 25px;
@@ -583,6 +587,9 @@ hr {
 
 
 
+
+
+
 @media screen and (max-width: 950px) {
 
     #menu {
@@ -606,7 +613,17 @@ hr {
         width: 33.33%;
         text-align: center;
         margin: 0 auto;
-        
+
     }
+
+
+
+}
+
+@media screen and (max-width: 650px) {
+    #book-now-form {
+        width: 75%
+    }
+
 
 }
