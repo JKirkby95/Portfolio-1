@@ -577,3 +577,17 @@ hr {
     font-size: 110%;
     color: gold;
 }
+/* responsive styling */
+
+@media screen and (max-width: 950px) {
+
+
+    
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 25px;
+        line-height: 25px;
+        margin-bottom: 25px;
+    }
+}
