@@ -587,9 +587,6 @@ hr {
 
 
 
-
-
-
 @media screen and (max-width: 950px) {
 
     #menu {
@@ -623,6 +620,15 @@ hr {
 @media screen and (max-width: 650px) {
     #book-now-form {
         width: 75%
+    }
+
+    #contact-details {
+        margin-left: 0;
+        padding: 0;
+    }
+
+    #footer-details {
+        padding: 0;
     }
 
 
