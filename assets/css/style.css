@@ -60,6 +60,7 @@ h1 {
     border-radius: 15px;
     box-shadow: 5px 5px 5px #076652;
     padding: 5px 10px;
+    transition: all 250ms;
 
 }
 
@@ -81,12 +82,6 @@ h1 {
     position: relative;
 }
 
-#cover-text a {
-    background-color: #076652;
-    border-radius: 15%;
-    color: #fff;
-    padding: 2px;
-}
 
 #cover-text {
     font-size: 150%;
@@ -113,16 +108,31 @@ h1 {
 
 }
 
-#book-now-link {
-    font-size: 150%;
+.book-now-link {
+    background-color: #076652;
+    border-radius: 100px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: CerebriSans-Regular, -apple-system, system-ui, Roboto, sans-serif;
+    padding: 7px 20px;
+    text-align: center;
     text-decoration: none;
-    border: none;
-    border-radius: 15%;
-    box-shadow: 5px 5px 5px #076652;
-    padding: 5px 25px;
-    width: 150px;
+    transition: all 250ms;
+    border: 0;
+    font-size: 16px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    text-transform: uppercase;
 
 }
+
+.book-now-link:hover {
+    box-shadow: rgba(44, 187, 99, .35) 0 -25px 18px -14px inset, rgba(44, 187, 99, .25) 0 1px 2px, rgba(44, 187, 99, .25) 0 2px 4px, rgba(44, 187, 99, .25) 0 4px 8px, rgba(44, 187, 99, .25) 0 8px 16px, rgba(44, 187, 99, .25) 0 16px 32px;
+    transform: scale(1.05) rotate(-1deg);
+}
+
 
 /* body */
 
@@ -183,18 +193,27 @@ h1 {
 }
 
 #welcome-book-now {
-    text-decoration: none;
     background-color: #076652;
+    border-radius: 100px;
     color: #fff;
-    border-radius: 15px;
-    padding: 5px 10px;
-    width: 20%;
+    cursor: pointer;
+    display: inline-block;
+    font-family: CerebriSans-Regular, -apple-system, system-ui, Roboto, sans-serif;
+    padding: 7px 20px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 250ms;
+    border: 0;
+    font-size: 16px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    text-transform: uppercase;
 }
 
 #welcome-book-now:hover {
-    background-color: #fff;
-    color: #076652;
-    border: 1px solid #076652;
+    box-shadow: rgba(44, 187, 99, .35) 0 -25px 18px -14px inset, rgba(44, 187, 99, .25) 0 1px 2px, rgba(44, 187, 99, .25) 0 2px 4px, rgba(44, 187, 99, .25) 0 4px 8px, rgba(44, 187, 99, .25) 0 8px 16px, rgba(44, 187, 99, .25) 0 16px 32px;
+    transform: scale(1.05) rotate(-1deg);
 }
 
 #right-welcome {
@@ -222,18 +241,27 @@ h1 {
 }
 
 #welcome-contact-us {
+    background-color: #076652;
+    border-radius: 100px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: CerebriSans-Regular, -apple-system, system-ui, Roboto, sans-serif;
+    padding: 7px 20px;
     text-align: center;
     text-decoration: none;
-    background-color: #076652;
-    color: #fff;
-    border-radius: 15px;
-    padding: 5px 10px;
+    transition: all 250ms;
+    border: 0;
+    font-size: 16px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    text-transform: uppercase;
 }
 
 #welcome-contact-us:hover {
-    background-color: #fff;
-    color: #076652;
-    border: 1px solid #076652;
+    box-shadow: rgba(44, 187, 99, .35) 0 -25px 18px -14px inset, rgba(44, 187, 99, .25) 0 1px 2px, rgba(44, 187, 99, .25) 0 2px 4px, rgba(44, 187, 99, .25) 0 4px 8px, rgba(44, 187, 99, .25) 0 8px 16px, rgba(44, 187, 99, .25) 0 16px 32px;
+    transform: scale(1.05) rotate(-1deg);
 }
 
 #center-welcome {
@@ -258,18 +286,27 @@ h1 {
 }
 
 #flyover-link {
+    background-color: #076652;
+    border-radius: 100px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: CerebriSans-Regular, -apple-system, system-ui, Roboto, sans-serif;
+    padding: 7px 20px;
     text-align: center;
     text-decoration: none;
-    background-color: #076652;
-    color: #fff;
-    border-radius: 15px;
-    padding: 5px 10px;
+    transition: all 250ms;
+    border: 0;
+    font-size: 16px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    text-transform: uppercase;
 }
 
 #flyover-link:hover {
-    background-color: #fff;
-    color: #076652;
-    border: 1px solid #076652
+    box-shadow: rgba(44, 187, 99, .35) 0 -25px 18px -14px inset, rgba(44, 187, 99, .25) 0 1px 2px, rgba(44, 187, 99, .25) 0 2px 4px, rgba(44, 187, 99, .25) 0 4px 8px, rgba(44, 187, 99, .25) 0 8px 16px, rgba(44, 187, 99, .25) 0 16px 32px;
+    transform: scale(1.05) rotate(-1deg);
 }
 
 /* Footer */
@@ -464,7 +501,7 @@ hr {
     width: 100%;
     background-color: #076652;
     color: #fff;
-    margin: 25px auto;
+    margin: 50px;
     padding: 25px;
     border-radius: 15%;
 }
@@ -545,12 +582,13 @@ hr {
 }
 
 #form .input-field .book {
-    width: 100%;
+    width: 50%;
     font-size: 20px;
     padding: 5px 10px;
     background-color: #fff;
     color: #076652;
     border-radius: 5px;
+    margin: 0 auto;
 }
 
 #form .input-field .book:hover {
