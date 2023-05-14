@@ -95,7 +95,7 @@ h1 {
 
     background-color: rgba(245, 245, 220, 0.8);
 
-    bottom: 175px;
+    bottom: 15px;
     right: 50px;
 
     position: absolute;
@@ -493,7 +493,6 @@ hr {
 }
 
 /* Book now page */
-
 /* form */
 #book-now-form {
     clear: both;
@@ -596,6 +595,8 @@ hr {
     color: #fff;
     border: 1px solid #fff;
 }
+
+
 
 /* Form response */
 

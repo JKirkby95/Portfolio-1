@@ -32,143 +32,141 @@
             </ul>
         </nav>
     </header>
+    <section id="book-now-page">
+        <div id="book-now-form">
+            <h2>Book a Tee Time! <i class="fa-regular fa-calendar"></i></h2>
+            <div id="form">
+                <form method="get" action="booking-successful.html">
+                    <div class="input-field">
 
-    <section id="book-now-form">
+                        <label>First Name:</label>
 
-        <h2>Book a Tee Time! <i class="fa-regular fa-calendar"></i></h2>
+                        <input type="text" class="input" required>
 
-        <div id="form">
-            <form method="get" action="booking-successful.html">
-            <div class="input-field">
+                    </div>
 
-                <label>First Name:</label>
+                    <div class="input-field">
 
-                <input type="text" class="input" required>
+                        <label>Last Name:</label>
 
+                        <input type="text" class="input" required>
+
+                    </div>
+
+                    <div class="input-field">
+
+                        <label>Email Address <i class="fa-regular fa-envelope"></i></label>
+
+                        <input type="email" class="input" required>
+
+                    </div>
+                    <div class="input-field">
+
+                        <label>Number of Players <i class="fa-regular fa-user"></i></label>
+
+                        <div class="select">
+                            <select required>
+                                <option value="">Select</option>
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                                <option value="4">4</option>
+                            </select>
+                        </div>
+
+                    </div>
+
+                    <div class="input-field">
+
+                        <label>Select Time <i class="fa-regular fa-clock" id="clock"></i></label>
+
+                        <div class="select">
+                            <select required>
+                                <option value="">Select</option>
+                                <option value="0800">08:00</option>
+                                <option value="0815">08:15</option>
+                                <option value="0830">08:30</option>
+                                <option value="0845">08:45</option>
+                                <option value="0900">09:00</option>
+                                <option value="0915">09:15</option>
+                                <option value="0930">09:30</option>
+                                <option value="0945">09:45</option>
+                                <option value="1000">10:00</option>
+                                <option value="1015">10:15</option>
+                                <option value="1030">10:30</option>
+                                <option value="1045">10:45</option>
+                                <option value="1100">11:00</option>
+                                <option value="1115">11:15</option>
+                                <option value="1130">11:30</option>
+                                <option value="1145">11:45</option>
+                                <option value="1200">12:00</option>
+                                <option value="1215">12:15</option>
+                                <option value="1230">12:30</option>
+                                <option value="1245">12:45</option>
+                                <option value="1300">13:00</option>
+                                <option value="1315">13:15</option>
+                                <option value="1330">13:30</option>
+                                <option value="1345">13:45</option>
+                                <option value="1400">14:00</option>
+                                <option value="1415">14:15</option>
+                                <option value="1430">14:30</option>
+                                <option value="1445">14:45</option>
+                                <option value="1500">15:00</option>
+                                <option value="1515">15:15</option>
+                                <option value="1530">15:30</option>
+                                <option value="1545">15:45</option>
+                                <option value="1600">16:00</option>
+                                <option value="1615">16:15</option>
+                                <option value="1630">16:30</option>
+                                <option value="1645">16:45</option>
+                                <option value="1700">17:00</option>
+                                <option value="1715">17:15</option>
+                                <option value="1730">17:30</option>
+                                <option value="1745">17:45</option>
+                                <option value="1800">18:00</option>
+                                <option value="1815">18:15</option>
+                                <option value="1830">18:30</option>
+                                <option value="1845">18:45</option>
+                                <option value="1900">19:00</option>
+                                <option value="1915">19:15</option>
+                                <option value="1930">19:30</option>
+                                <option value="1945">19:45</option>
+                                <option value="2000">20:00</option>
+
+                            </select>
+                        </div>
+
+                    </div>
+
+
+                    <div class="input-field">
+
+                        <label>Additional info (optional)</label>
+
+                        <textarea class="textarea"></textarea>
+
+                    </div>
+
+                    <div class="input-field">
+
+                        <label class="input-field check">
+
+                            <input type="checkbox">
+                            <span class="comp"></span>
+
+                        </label>
+                        <p>Enter daily competition</p>
+                    </div>
+
+                    <div class="input-field">
+
+                        <input type="submit" value="Book Now!" class="book">
+
+                    </div>
+                </form>
             </div>
-
-            <div class="input-field">
-
-                <label>Last Name:</label>
-
-                <input type="text" class="input" required>
-
-            </div>
-
-            <div class="input-field">
-
-                <label>Email Address <i class="fa-regular fa-envelope"></i></label>
-
-                <input type="email" class="input" required>
-
-            </div>
-            <div class="input-field">
-
-                <label>Number of Players <i class="fa-regular fa-user"></i></label>
-
-                <div class="select">
-                    <select required>
-                        <option value="">Select</option>
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
-                    </select>
-                </div>
-
-            </div>
-
-            <div class="input-field">
-
-                <label>Select Time <i class="fa-regular fa-clock" id="clock"></i></label>
-
-                <div class="select">
-                    <select required>
-                        <option value="">Select</option>
-                        <option value="0800">08:00</option>
-                        <option value="0815">08:15</option>
-                        <option value="0830">08:30</option>
-                        <option value="0845">08:45</option>
-                        <option value="0900">09:00</option>
-                        <option value="0915">09:15</option>
-                        <option value="0930">09:30</option>
-                        <option value="0945">09:45</option>
-                        <option value="1000">10:00</option>
-                        <option value="1015">10:15</option>
-                        <option value="1030">10:30</option>
-                        <option value="1045">10:45</option>
-                        <option value="1100">11:00</option>
-                        <option value="1115">11:15</option>
-                        <option value="1130">11:30</option>
-                        <option value="1145">11:45</option>
-                        <option value="1200">12:00</option>
-                        <option value="1215">12:15</option>
-                        <option value="1230">12:30</option>
-                        <option value="1245">12:45</option>
-                        <option value="1300">13:00</option>
-                        <option value="1315">13:15</option>
-                        <option value="1330">13:30</option>
-                        <option value="1345">13:45</option>
-                        <option value="1400">14:00</option>
-                        <option value="1415">14:15</option>
-                        <option value="1430">14:30</option>
-                        <option value="1445">14:45</option>
-                        <option value="1500">15:00</option>
-                        <option value="1515">15:15</option>
-                        <option value="1530">15:30</option>
-                        <option value="1545">15:45</option>
-                        <option value="1600">16:00</option>
-                        <option value="1615">16:15</option>
-                        <option value="1630">16:30</option>
-                        <option value="1645">16:45</option>
-                        <option value="1700">17:00</option>
-                        <option value="1715">17:15</option>
-                        <option value="1730">17:30</option>
-                        <option value="1745">17:45</option>
-                        <option value="1800">18:00</option>
-                        <option value="1815">18:15</option>
-                        <option value="1830">18:30</option>
-                        <option value="1845">18:45</option>
-                        <option value="1900">19:00</option>
-                        <option value="1915">19:15</option>
-                        <option value="1930">19:30</option>
-                        <option value="1945">19:45</option>
-                        <option value="2000">20:00</option>
-
-                    </select>
-                </div>
-
-            </div>
-
-
-            <div class="input-field">
-
-                <label >Additional info (optional)</label>
-
-                <textarea  class="textarea"></textarea>
-
-            </div>
-
-            <div class="input-field">
-
-                <label class="input-field check">
-
-                <input type="checkbox">
-                <span class="comp"></span>
-                
-            </label>
-            <p>Enter daily competition</p>
-            </div>
-
-            <div class="input-field">
-
-                <input type="submit" value="Book Now!" class="book">
-
-            </div>
-            </form>
         </div>
     </section>
-
     <footer>
         <section id="footer-details">
             <ul id="contact-details">
