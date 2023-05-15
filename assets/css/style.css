@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     border: none;
+    box-sizing: border-box;
 }
 
 body {
@@ -494,13 +495,19 @@ hr {
 
 /* Book now page */
 /* form */
+
+#book-now-page{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 #book-now-form {
     clear: both;
     max-width: 600px;
     width: 100%;
     background-color: #076652;
     color: #fff;
-    margin: 50px;
     padding: 25px;
     border-radius: 15%;
 }
@@ -594,6 +601,7 @@ hr {
     background-color: #076652;
     color: #fff;
     border: 1px solid #fff;
+    transition: 250ms;
 }
 
 
@@ -620,6 +628,48 @@ hr {
 #form-response a:hover {
     font-size: 110%;
     color: gold;
+}
+.gallery{
+    height: 100vh;
+    width: 100%;
+    clear: both;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.gallery img {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    border: 5px solid #076652;
+    border-radius: 50%;
+    margin: 5px;
+}
+
+.gallery-image{
+    position: relative;
+}
+.gallery-image h3 {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 50px;
+    display: flex;
+    padding: 0 25px;
+    align-items: center;
+    font-size:200%;
+    opacity: 0;
+}
+.gallery-image:hover img{
+    border-radius: 5%;
+    transition: 500ms;
+}
+.gallery-image:hover h3{
+    opacity: 1;
+    color: gold;
+    transition: 500ms;
 }
 
 /* responsive styling */
