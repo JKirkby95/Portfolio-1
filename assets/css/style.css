@@ -63,7 +63,7 @@ h1 {
 #hero-image {
     height: 700px;
     width: 100%;
-    background: url(../images/cover-photo.jpg)no-repeat center center;
+    background: url(../images/cover-photo.webp)no-repeat center center;
     border: 5px solid #076652;
     overflow: hidden;
     position: relative;
@@ -334,7 +334,7 @@ hr {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(../images/form_background.jpg);
+    background-image: url(../images/form_background.webp);
     background-size: cover;
     width: 100%;
     object-fit:scale-down;
