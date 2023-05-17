@@ -445,7 +445,7 @@ hr {
 }
 #form-response a:hover {
     font-size: 110%;
-    color: gold;
+    color: #FFD700;
 }
 .gallery{
     height: 100%;
@@ -498,7 +498,7 @@ hr {
 }
 .gallery-image:hover h3{
     opacity: 1;
-    color: gold;
+    color: #FFD700;
     transition: 500ms;
 }
 .gallery-image:hover p{
