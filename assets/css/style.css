@@ -469,20 +469,38 @@ hr {
     position: absolute;
     left: 0;
     right: 0;
-    bottom: 50px;
+    bottom: 200px;
     display: flex;
     padding: 0 25px;
     align-items: center;
     font-size:200%;
     opacity: 0;
 }
+.gallery-image p {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 75px;
+    display: flex;
+    padding: 0 25px;
+    align-items: center;
+    font-size:15px;
+    color: #fff;
+    opacity: 0;
+}
 .gallery-image:hover img{
     border-radius: 5%;
     transition: 500ms;
+    filter: brightness(50%);
 }
 .gallery-image:hover h3{
     opacity: 1;
     color: gold;
+    transition: 500ms;
+}
+.gallery-image:hover p{
+    opacity: 1;
+    color: #fff;
     transition: 500ms;
 }
 #feature-heading{
@@ -557,5 +575,8 @@ hr {
     }
     .gallery img {
         width: 100%;
+    }
+    .gallery-image:hover h3 {
+        top:50px;
     }
 }
