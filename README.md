@@ -46,9 +46,19 @@ The colors used in this website are mainly a darker shade of green (#076652) and
 
 ![masters jacket](./assets/images/masters.png)
 
+### Typography
 
+The main font used on my site is Raleway, with Sans Serif as the fallback font in case Raleway is not being imported correctly. For my logo I used the Dancing Script font to add some style to it. I used Google fonts to import these styles.
 
+### Wireframes
 
+For my wireframes I used [Balsamiq](https://balsamiq.com/), my wireframes didn't end up exactly like the final project but it gave me a great idea of how it would look.
+
+Page | Desktop Version
+--- | --- 
+Index | ![Home page wireframe](./assets/images/home_page_wireframe.png)
+Book Now | ![Book now wireframe](./assets/images/contact_us_wireframe.png)
+Gallery | ![Gallery wireframe](./assets/images/featured_holes_wireframe.png)
 
 
 
