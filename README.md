@@ -8,9 +8,11 @@ The purpose of this website is to allow anyone to get a preview of the course an
 
 View the deployed website [here.](https://jkirkby95.github.io/Portfolio-1/)
 
+## Table of Contents
+
 ## User Experience
 
-### The purpose of this website
+### Project Goals
 
 - Firstly, it should be obvious that this is a golf club when you click onto the site.
 
@@ -22,8 +24,28 @@ View the deployed website [here.](https://jkirkby95.github.io/Portfolio-1/)
 
 - Provide a brief description of featured holes to give the player an idea of how the course plays.
 
+### User Stories
+
+- As a customer, I want to be able to navigate the website easily.
+
+- As a customer, I want to be able to learn about the course before I book a time.
+
+- As a customer, I want to be able to book a tee time directly from the site.
+
+- As a customer, I want to be able to find contact information for the business.
+
+- As a customer, I want to find social media links to the business.
+
+- As a customer, I want to easily find the business' location.
+
 ### Color Scheme
 
-![website color scheme](./assets/images/)
+![website color scheme](./assets/images/color_scheme.png)
+
+
+
+
+
+
 
 
