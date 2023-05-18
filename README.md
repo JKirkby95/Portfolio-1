@@ -42,6 +42,10 @@ View the deployed website [here.](https://jkirkby95.github.io/Portfolio-1/)
 
 ![website color scheme](./assets/images/color_scheme.png)
 
+The colors used in this website are mainly a darker shade of green (#076652) and white. I also used some gold (#FFD700) to highlight the headings on a darker background in the gallery section. A shade of beige was used on the call to action section to make it stand out but i didn't want it to be distracting. I took inspiration from the masters green jacket for my color scheme.
+
+![masters jacket](./assets/images/masters.png)
+
 
 
 
