@@ -54,11 +54,45 @@ The main font used on my site is Raleway, with Sans Serif as the fallback font i
 
 For my wireframes I used [Balsamiq](https://balsamiq.com/), my wireframes didn't end up exactly like the final project but it gave me a great idea of how it would look.
 
-Page | Desktop Version
+Page | Wireframe
 --- | --- 
 Index | ![Home page wireframe](./assets/images/home_page_wireframe.png)
 Book Now | ![Book now wireframe](./assets/images/contact_us_wireframe.png)
 Gallery | ![Gallery wireframe](./assets/images/featured_holes_wireframe.png)
+
+## Features
+
+### General
+
+- Responsive design accross all device sizes.
+
+- Used similar colors and design accross all pages to keep everything clean and to present information clearly.
+
+**Header**
+![header](./assets/images/header.png)
+
+- The header is made up of the club logo (which also can be used to navigate to the home screen) and a full responsive navigation bar.
+
+- The header is identical in all pages of the website for consistency.
+
+- The navigation bar has links to the 3 main pages of the site.
+
+- It also shows enlarged and underlined text on the page you are currently on.
+
+- The links in the nav bar also have a hover effect for a better user experience.
+
+**Footer**
+![footer](./assets/images/footer.png)
+
+- The footer is also identical accross all pages of the website.
+
+- It contains social media links for the club, which have a hover effect with a color to match each platform.
+
+- The footer also contains a contact us section, with an address for the club, phone number and E-mail information that contain links to use them.
+
+- The footer also contains a quick links section that contains helpful information you may need when coming to the course.
+
+- Finally the footer contains opening times for the course and the pro shop.
 
 
 
