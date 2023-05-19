@@ -94,6 +94,22 @@ Gallery | ![Gallery wireframe](./assets/images/featured_holes_wireframe.png)
 
 - Finally the footer contains opening times for the course and the pro shop.
 
+**Landing Page**
+
+- Hero Image
+
+![hero image](./assets/images/hero.png)
+
+- The hero image is probably the first thing a customer would notice when visiting our site, so I wanted to use a great shot of the course and include a call to action. As the main purpose of the page is to attract players.
+
+- Welcome section
+
+![welcome section](./assets/images/welcome_section.png)
+
+
+
+
+
 
 
 
