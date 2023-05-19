@@ -114,6 +114,27 @@ The hero image is probably the first thing a customer would notice when visiting
 
 ![Trump welcome section](./assets/images/trump.png)
 
+### Book Now page
+
+**Form to book a tee time**
+
+![Book now page form](./assets/images/book_now.png)
+
+- Form contains 5 mandatory fields first name , last name , e-mail , time and number of players.
+
+- It also contains 2 optional fields to leave a message or to enter the daily competition.
+
+**Map on Book now page**
+
+![book now page map](./assets/images/book_now_map.png)
+
+- This section displays a Google map of the courses geographical location. This allows the players to easily find the location from their devices.
+
+### Booking succesful page
+
+![booking successful page](./assets/images/booking_successful.png)
+
+- This page is only accessed when a user completes a booking and it will direct you back to the home page.
 
 
 
