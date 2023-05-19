@@ -136,6 +136,46 @@ The hero image is probably the first thing a customer would notice when visiting
 
 - This page is only accessed when a user completes a booking and it will direct you back to the home page.
 
+## Technologies Used
+
+### Languages used
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+### Frameworks, Libraries and Programs used
+
+- [Google fonts](https://fonts.google.com/)
+
+Google fonts was used to import the Raleway , Mulish and Dancing Script fonts.
+
+- [Font Awesome](https://fontawesome.com/)
+
+Font Awesome was used to import useful icons for my page for a better visual experience.
+
+- [Pixelied](https://pixelied.com/)
+
+Used to change images from jpg to webp. To reduce the file size.
+
+- [Codeanywhere](https://app.codeanywhere.com/)
+
+Codeanywhere was used for writing code, committing and pushing to Github.
+
+- [Github](https://github.com/)
+
+Github was used to store the project after pushing.
+
+- [Balsamiq](https://balsamiq.com/)
+
+Balsamiq was used to make the wireframes for this project.
+
+- [Am I Responsive](https://ui.dev/amiresponsive)
+
+Am I responsive was used to make a mockup image for this README file and to check how responsive my site is.
+
+
+
 
 
 
