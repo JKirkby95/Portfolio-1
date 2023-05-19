@@ -100,11 +100,20 @@ Gallery | ![Gallery wireframe](./assets/images/featured_holes_wireframe.png)
 
 ![hero image](./assets/images/hero.png)
 
-- The hero image is probably the first thing a customer would notice when visiting our site, so I wanted to use a great shot of the course and include a call to action. As the main purpose of the page is to attract players.
+The hero image is probably the first thing a customer would notice when visiting our site, so I wanted to use a great shot of the course and include a call to action. As the main purpose of the page is to attract players.
 
 - Welcome section
 
 ![welcome section](./assets/images/welcome_section.png)
+
+- The welcome section seemed to be a big part of a lot of golf club sites i saw while doing my research.
+
+- Similar to mine they mostly contain a few photos of the course and a call to action.
+
+- The welcome section that I took the most inspiration from was the [Trump international at Doonbeg website](https://www.trumpgolfireland.com/)
+
+![Trump welcome section](./assets/images/trump.png)
+
 
 
 
