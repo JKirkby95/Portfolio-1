@@ -174,11 +174,19 @@ Balsamiq was used to make the wireframes for this project.
 
 Am I responsive was used to make a mockup image for this README file and to check how responsive my site is.
 
+- [Chrome Dev tools](https:/developer.chrome.com/docs/devtools/)
 
+ Chrome DevTools was used during development process for code review and to test responsiveness.
 
+ - [W3C Markup Validator](https://validator.w3.org/)
 
+ W3C Markup Validator was used to validate the HTML code.
 
+ - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
+W3C CSS Validator was used to validate the CSS code.
+
+[Back to top ⇧](#Clare-Golf-Club)
 
 
 
