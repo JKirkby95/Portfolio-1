@@ -568,6 +568,7 @@ hr {
         padding: 0;
         margin: 0 auto;
         text-align: center;
+        font-size: 200%;
     }
     #cover-text {
         width:100%;
