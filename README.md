@@ -204,6 +204,42 @@ W3C CSS Validator was used to validate the CSS code.
 
 [Back to top ⇧](#Clare-Golf-Club)
 
+## Testing
+
+### Testing User Stories
+
+- As a customer, I want to be able to navigate the website easily.
+
+The nav bar is very simple on this site to help with this it has only 3 options, and enhanced and underlined text to show the user what page they are on currently.
+
+![header](./assets/images/header.png)
+
+- As a customer, I want to be able to learn about the course before I book a time.
+
+This is done in multiple ways, firstly is through the flyover video on our youtube channel linked on the Home page.
+
+Secondly this is done through the Gallery page where you get details about some of our featured holes.
+
+![Flyover Video](./assets/images/flyover.png)
+
+- As a customer, I want to be able to book a tee time directly from the site.
+
+The main goal of the website is to attract players so making it easy to book a time is essential, we did this by having 3 different links to book now on the Home page alone.
+
+![home page book now](./assets/images/home_booking.webp)
+
+- As a customer, I want to be able to find contact information for the business.
+
+This is done mostly through the footer of the page and we have 1 other link to our email on the Home page.
+
+![Email link on home page](./assets/images/learn_more.png)
+
+- As a customer, I want to find social media links to the business.
+
+This is also done through the [footer](#footer) of the website
+
+
+
 
 
 
