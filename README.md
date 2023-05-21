@@ -60,6 +60,8 @@ Index | ![Home page wireframe](./assets/images/home_page_wireframe.png)
 Book Now | ![Book now wireframe](./assets/images/contact_us_wireframe.png)
 Gallery | ![Gallery wireframe](./assets/images/featured_holes_wireframe.png)
 
+[Back to top ⇧](#Clare-Golf-Club)
+
 ## Features
 
 ### General
@@ -135,6 +137,20 @@ The hero image is probably the first thing a customer would notice when visiting
 ![booking successful page](./assets/images/booking_successful.png)
 
 - This page is only accessed when a user completes a booking and it will direct you back to the home page.
+
+### Gallery Page
+
+![Gallery Page](./assets/images/gallery_page.png)
+
+- The gallery page is designed to show off some of our best holes, to give players an idea of how the course plays.
+
+- The gallery page features holes 1, 3, 5, 7, 10, 11, 12, and 17.
+
+- Also each image has a hover effect to tell you which hole the photo is of, and to tell you a bit about each hole. (as seen below)
+
+![Gallery page hover](./assets/images/featured_holes_hover.png)
+
+[Back to top ⇧](#Clare-Golf-Club)
 
 ## Technologies Used
 
