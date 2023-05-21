@@ -236,10 +236,10 @@ This is done mostly through the footer of the page and we have 1 other link to o
 
 - As a customer, I want to find social media links to the business.
 
-This is also done through the [footer](#footer) of the website
+This is also done through the footer of the website, so it's on every page.
 
+- As a customer, I want to easily find the business' location.
 
+The location can be found in two places, firstly in the footer again so it's on each page.
 
-
-
-
+Secondly it's on the book now page below the form, this time in the form of a Google map.
