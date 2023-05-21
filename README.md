@@ -96,7 +96,7 @@ Gallery | ![Gallery wireframe](./assets/images/featured_holes_wireframe.png)
 
 - Finally the footer contains opening times for the course and the pro shop.
 
-**Landing Page**
+**Home Page**
 
 - Hero Image
 
@@ -243,3 +243,41 @@ This is also done through the footer of the website, so it's on every page.
 The location can be found in two places, firstly in the footer again so it's on each page.
 
 Secondly it's on the book now page below the form, this time in the form of a Google map.
+
+### Code Validation
+
+- When running my code through the I did find a few errors.
+
+W3C Markup Validator found an error concerning my Iframe I used, it had inline styling included so all I had to do was move the same styling to the css.style sheet.
+
+W3C Markup Validator also found an error where I had misspelled "class" as "classs" in one occasion.
+
+- Thankfully I found no errors in the CSS validator.
+
+### Accessibility
+
+- Used Lighthouse in Chrome DevTools to confirm that the colors and fonts being used in throughout the website are easy to read and accessible.
+
+**Home Page**
+
+![home page lighthouse](./assets/images/home_page_lighthouse.png)
+
+**Book Now Page**
+
+![book now page lighthouse](./assets/images/book_now_lighthouse.png)
+
+**Booking Succeddful Page**
+
+![booking successful lighthouse](./assets/images/booking_successful_lighthouse.png)
+
+**Gallery Page**
+
+![gallery page lighthouse](./assets/images/featured_holes_lighthouse.png)
+
+### Tools testing 
+
+- Chrome DevTools was used during the development process to test, explore and modify HTML elements and CSS styles used in the project.
+
+- Chrome DevTools was also used to test responsiveness in different screen sizes during the development process.
+
+### Manual Testing
