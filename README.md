@@ -281,3 +281,83 @@ W3C Markup Validator also found an error where I had misspelled "class" as "clas
 - Chrome DevTools was also used to test responsiveness in different screen sizes during the development process.
 
 ### Manual Testing
+
+**Browser Compatibility**
+
+No issues with the site on the following browsers.
+
+- Google Chrome
+
+- Brave
+
+- Microsoft Edge.
+
+**Device compatibility**
+
+No issues with the site on the foolowing devices.
+
+- HP Pavillion 14" display
+
+- Custom Home PC with 28" display (Also tested on same screen in portrait mode)
+
+- MacBook Pro 15"
+
+- MSI Katana GF66 11UE
+
+- Iphone 14 Pro
+
+- Nothing Phone (1)
+
+- One Plus 8T
+
+**Common Elements Testing**
+
+- Header
+
+Clicking on the main logo will bring the customer back to the home page.
+
+- Navigation Bar
+
+Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the customer.
+
+Clicking on the navigation bar's links will bring the customer to the specified page.
+
+- Footer
+
+Clicking on all links will open the specific website on a new tab.
+
+- Welcome Section
+
+Hovering on the book now button on each section will trigger hover effect, highlighting the button for the customer.
+
+All links in welcome section working well.
+
+- Hero Image
+
+Hovering on the book now button on each section will trigger hover effect, highlighting the button for the customer.
+
+Book now link will bring customer to the book now page.
+
+- Book Now Form
+
+If the customer is missing some required information the form will not submit.
+
+If the customer provides email address in the wrong format they will be notified.
+
+Drop down menus for time and player count are working correctly.
+
+Hover effect on the Book Now button is working and it sends you to the booking successful page once filled out correctly.
+
+- Map
+
+Clicking and dragging on the map in the find us section will move the area shown on the map.
+
+Clicking the plus and minus buttons changes the zoom of the map.
+
+- Booking Successful page
+
+Text displays correctly and link to Home page also working.
+
+- Gallery page
+
+Hover effect on the images working correctly , shape changes and text appears over each image.

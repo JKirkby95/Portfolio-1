@@ -432,7 +432,7 @@ hr {
 /* Form response */
 #form-response {
     width: 75%;
-    height: 600px;
+    height: 100vh;
     background-color: #076652;
     clear: both;
     margin: 25px auto;
@@ -450,7 +450,7 @@ hr {
     color: #FFD700;
 }
 .gallery{
-    height: 100%;
+    height: 100vh;
     width: 100%;
     clear: both;
     display: flex;
