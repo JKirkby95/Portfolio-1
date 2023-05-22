@@ -515,7 +515,7 @@ hr {
     margin: 25px;
 }
 .gallery footer {
-    margin-top: auto;
+    margin-bottom: auto;
 }
 /* responsive styling */
 @media screen and (max-width: 950px) {
