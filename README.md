@@ -125,7 +125,7 @@ Gallery | ![Gallery wireframe](./assets/images/featured_holes_wireframe.png)
 
 - Finally the footer contains opening times for the course and the pro shop.
 
-**Home Page**
+### Home Page
 
 - Hero Image
 
@@ -161,7 +161,7 @@ The hero image is probably the first thing a customer would notice when visiting
 
 - This section displays a Google map of the courses geographical location. This allows the players to easily find the location from their devices.
 
-### Booking succesful page
+### Booking successful page
 
 ![booking successful page](./assets/images/booking_successful.png)
 
