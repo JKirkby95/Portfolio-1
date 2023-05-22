@@ -361,3 +361,12 @@ Text displays correctly and link to Home page also working.
 - Gallery page
 
 Hover effect on the images working correctly , shape changes and text appears over each image.
+
+## Finished Product
+
+Page |  Finshed Product
+--- | --- 
+Index | ![Home page complete](./assets/images/home_page_complete.webp)
+Book Now | ![Book now complete](./assets/images/book_now_complete.webp)
+Booking Successful | ![ booking successful complete](./assets/images/booking_successful_complete.webp)
+Gallery | ![Gallery complete](./assets/images/gallery_page_complete.webp)
