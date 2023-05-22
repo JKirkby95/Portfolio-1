@@ -41,20 +41,20 @@
                 <form method="get" action="booking-successful.html">
                     <div class="input-field">
                         <label>First Name:</label>
-                        <input type="text" class="input" required>
+                        <input type="text" class="input" aria-label="first name" required>
                     </div>
                     <div class="input-field">
                         <label>Last Name:</label>
-                        <input type="text" class="input" required>
+                        <input type="text" class="input" aria-label="last name" required>
                     </div>
                     <div class="input-field">
                         <label>Email Address <i class="fa-regular fa-envelope"></i></label>
-                        <input type="email" class="input" required>
+                        <input type="email" class="input" aria-label="email" required>
                     </div>
                     <div class="input-field">
                         <label>Number of Players <i class="fa-regular fa-user"></i></label>
                         <div class="select">
-                            <select required>
+                            <select aria-label="number of players" required>
                                 <option value="">Select</option>
                                 <option value="1">1</option>
                                 <option value="2">2</option>
@@ -66,7 +66,7 @@
                     <div class="input-field">
                         <label>Select Time <i class="fa-regular fa-clock" id="clock"></i></label>
                         <div class="select">
-                            <select required>
+                            <select aria-label="time" required>
                                 <option value="">Select</option>
                                 <option value="0800">08:00</option>
                                 <option value="0815">08:15</option>
@@ -122,17 +122,17 @@
                     </div>
                     <div class="input-field">
                         <label>Additional info (optional)</label>
-                        <textarea class="textarea"></textarea>
+                        <textarea class="textarea" aria-label="add a message"></textarea>
                     </div>
                     <div class="input-field">
                         <label class="input-field check">
-                            <input type="checkbox">
+                            <input type="checkbox" aria-label="competition">
                             <span class="comp"></span>
                         </label>
                         <p>Enter daily competition</p>
                     </div>
                     <div class="input-field">
-                        <input type="submit" value="Book Now!" class="book">
+                        <input type="submit" value="Book Now!" class="book" aria-label="book now button">
                     </div>
                 </form>
             </div>
