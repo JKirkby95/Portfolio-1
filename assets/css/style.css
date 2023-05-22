@@ -516,6 +516,11 @@ hr {
     margin: 25px;
 }
 /* responsive styling */
+@media screen and (max-width: 1656px){
+    .gallery {
+        height: 100%;
+    }
+}
 @media screen and (max-width: 950px) {
     #menu {
         clear: left;
