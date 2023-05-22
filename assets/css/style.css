@@ -514,6 +514,9 @@ hr {
     font-size: 150%;
     margin: 25px;
 }
+.gallery footer {
+    margin-top: auto;
+}
 /* responsive styling */
 @media screen and (max-width: 950px) {
     #menu {
