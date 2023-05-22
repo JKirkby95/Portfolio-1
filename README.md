@@ -10,7 +10,7 @@ View the deployed website [here.](https://jkirkby95.github.io/Portfolio-1/)
 
 ## Table of Contents
 
- [User Experience](#user-experience)
+1. [User Experience](#user-experience)
     1. [Project Goals](#project-goals)
     2. [User Stories](#user-stories)
     3. [Color Scheme](#color-scheme)
