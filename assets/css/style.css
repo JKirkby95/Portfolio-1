@@ -518,7 +518,7 @@ hr {
 /* responsive styling */
 @media screen and (max-width: 1656px){
     .gallery {
-        height: 2000px;
+        height: 100%;
         width: auto;
     }
 }
