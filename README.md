@@ -280,6 +280,8 @@ W3C Markup Validator also found an error where I had misspelled "class" as "clas
 
 - Chrome DevTools was also used to test responsiveness in different screen sizes during the development process.
 
+[Back to top ⇧](#Clare-Golf-Club)
+
 ### Manual Testing
 
 **Browser Compatibility**
@@ -362,6 +364,8 @@ Text displays correctly and link to Home page also working.
 
 Hover effect on the images working correctly , shape changes and text appears over each image.
 
+[Back to top ⇧](#Clare-Golf-Club)
+
 ## Finished Product
 
 Page |  Finshed Product
@@ -370,3 +374,37 @@ Index | ![Home page complete](./assets/images/home_page_complete.webp)
 Book Now | ![Book now complete](./assets/images/book_now_complete.webp)
 Booking Successful | ![ booking successful complete](./assets/images/booking_successful_complete.webp)
 Gallery | ![Gallery complete](./assets/images/gallery_page_complete.webp)
+
+[Back to top ⇧](#Clare-Golf-Club)
+
+## Deployment
+
+- This website was deployed using [Codeanywhere](https://app.codeanywhere.com/), and then committed and pushed to GitHub using the Codeanywhere terminal.
+
+[Back to top ⇧](#Clare-Golf-Club)
+
+## Credits
+
+### Content
+
+- All content was written by the developer.
+
+### Media
+
+- All media used was either a screenshot of my own pages or downloaded from [Pixabay](https://pixabay.com/).
+
+### Code
+
+- Main resources used for my code were the Code Institute Slack community and [W3Schools](https://www.w3schools.com/).
+
+[Back to top ⇧](#Clare-Golf-Club)
+
+## Acknowledgements
+
+- Everyone in the Code Institute Slack community.
+
+- My mentor Marcel, for his fantastic feeback and for breaking this down and making it seem possible for me.
+
+- My family, for allowing me some time to myself to complete this.
+
+[Back to top ⇧](#Clare-Golf-Club)
