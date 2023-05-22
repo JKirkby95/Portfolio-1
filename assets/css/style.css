@@ -585,7 +585,7 @@ hr {
     .gallery-image:hover h3 {
         top:50px;
     }
-    .gallery {
-        height: 100%;
+    .gallery footer {
+            margin-top: auto;
     }
 }
