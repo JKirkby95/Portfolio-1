@@ -261,6 +261,7 @@ footer {
     background-color: #076652;
     clear: both;
     width: 100%;
+    margin-top: auto;
 }
 #social-networks {
     text-align: center;
@@ -513,9 +514,6 @@ hr {
     text-align: center;
     font-size: 150%;
     margin: 25px;
-}
-.gallery {
-    margin-bottom: auto;
 }
 /* responsive styling */
 @media screen and (max-width: 950px) {
