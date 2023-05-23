@@ -231,6 +231,10 @@ Am I responsive was used to make a mockup image for this README file and to chec
 
 W3C CSS Validator was used to validate the CSS code.
 
+- [CSS Scan](https://getcssscan.com/)
+
+ CSS scan was used to get buttons for the welcome section, to add a bit more style.
+
 [Back to top ⇧](#Clare-Golf-Club)
 
 ## Testing
