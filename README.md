@@ -403,7 +403,7 @@ Hover effect on the images working correctly , shape changes and text appears ov
 
 1. I had an issue where I used the position: relative; style on the wrong section. This was when I was placing the text and call to action on my cover image. I was positioning the cover text section relative to the header rather than the cover image this actually caused my nav bar to stop working and I had help form a tutor who pointed me in the right direction but also let me figure it out myself.
 
-2. An unsolved bug I have is when I display the footer details as a column the quick links section isn't aligning with the other two lists, this happens @ 450px screen width. I have tried multiple methods to display this that haven't worked, making the margin left greater seems to work but I don't want to code it that way as to me it seems a lazy way to do it. 
+2. An unsolved bug I have is when I display the footer details as a column the quick links section wasn't aligning with the other two lists, this happens @ 550px screen width. I have tried multiple methods to display this that haven't worked, the only fix I could find was making the margin right 200px.That seems to have worked but I don't want to code it that way in the future as to me it seems a lazy way to do it. I'd love to improve on things like this.
 
 [Back to top ⇧](#Clare-Golf-Club)
 
