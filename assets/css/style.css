@@ -542,6 +542,7 @@ hr {
         width: 40%;
         text-align: center;
         margin: 0 auto;
+        padding-bottom: 25px;
     }
 }
 @media screen and (max-width: 650px) {
@@ -563,8 +564,11 @@ hr {
     #footer-details {
         padding: 0;
     }
+    #times-details {
+        margin-right: 0;
+    }
 }
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 550px) {
     body {
     font-size: 66%;
     }
@@ -576,6 +580,10 @@ hr {
         margin: 0 auto;
         text-align: center;
         font-size: 200%;
+        margin-bottom: 25px;
+    }
+    #quick-links {
+        margin-right: 150px;
     }
     #cover-text {
         width:100%;
